@@ -1,0 +1,9 @@
+# TEAM10--CS691-692-IT691-SPRING-2020
+
+Title: Mobile App for Public Safety
+
+Team Members: Dayanand Dyawarashetty, Karishma Saini, Jorgelina Alba, Danny Squicciarini.
+
+Customer: Jamente Cooper.
+
+Abstract: Our technocentric society has conditioned individuals to develop the expectation that emergency medical treatment will always be readily available during times of distress. Emergency medical responders are often pressured to provide services within areas too vast for their capabilities. This results in response times that are less than adequate. In the realm of lifesaving, minutes and seconds may determine whether an individual succumbs to their injuries or survives. The basic skills required to prolong the life of the majority of individuals who are suffering from a traumatic injury are not only within the grasp of emergency medical responders and medical personnel. The simple acts of performing cardiopulmonary resuscitation and applying pressure to wounds is taught to many individuals such as firefighters, police officers, military members, and other first responders. This effort will concern developing a mobile application with the primary goal of allowing individuals to report emergencies that involve patients suffering from traumatic bleeding wounds at high risk of exsanguination, as well as patients that are not breathing or who have a blocked airway. These reported emergencies will be forwarded to a network of certified off-duty professionals as well as first responders who are within the area of the patient and can expediently provide lifesaving measures before emergency medical responders arrive. The secondary goal of this application will be to provide first responders with a more accurate location of the patient in need by utilizing Global Positioning System technology.
